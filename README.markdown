@@ -35,7 +35,7 @@ Configure your Rackspace File account details in app.yml
     all:
       rackspace:
         account: /v1/CF_xer7_34
-        username: localnomad
+        username: my_user_name
         api_key: my_api_key
         is_uk: false
     
