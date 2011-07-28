@@ -1,0 +1,6 @@
+all:
+  rackspace:
+    account: rs_account
+    username: my_user_name
+    api_key: my_api_key
+    is_uk: false
